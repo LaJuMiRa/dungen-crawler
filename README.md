@@ -134,6 +134,7 @@ Monsters and the rival find their way with **breadth-first search** (BFS) over t
 - [ ] **Restructure the project:** split `dungeon.py` into modules, add a test suite and add `pyproject.toml` / `requirements.txt` for installation
 - [ ] **New content:** more monsters, items, traps and levels
 - [ ] **Local two-player mode:** let a second person play the rival instead of the AI
+- [ ] **Different game modes**
 
 Have an idea? [Open an issue](https://github.com/LaJuMiRa/dungen-crawler/issues).
 
